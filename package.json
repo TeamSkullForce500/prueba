@@ -4,7 +4,7 @@
   "description": "",
   "main": "prueba.js",
   "scripts": {
-  "start": "node nombre del archivo creado anteriormente.js"
+  "start": "prueba.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
